@@ -1,10 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Amazon Clone
 
 ![AmazonClone](AmazonClone.png)
 
-## Available Scripts
+## Link
 
-In the project directory, you can run:
+[https://clone-12862.web.app/](https://clone-12862.web.app/)
 
 ### `npm start`
 
