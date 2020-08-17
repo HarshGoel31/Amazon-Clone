@@ -9,3 +9,6 @@ This is an Amazon Clone created using React JS as Front end , Firebase for Deplo
 
 [https://clone-12862.web.app/](https://clone-12862.web.app/)
 
+[![star this repo](https://githubbadges.com/star.svg?user=HarshGoel31&repo=Amazon-Clone&style=flat)](https://github.com/HarshGoel31/Amazon-Clone)
+[![fork this repo](https://githubbadges.com/fork.svg?user=HarshGoel31&repo=Amazon-Clone&style=flat)](https://github.com/HarshGoel31/Amazon-Clone/fork)
+
