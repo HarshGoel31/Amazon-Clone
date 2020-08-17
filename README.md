@@ -2,7 +2,7 @@
 
 ![AmazonClone](AmazonClone.png)
 
-[![React](https://img.shields.io/badge/-React.js-green)]()
+[![React](https://img.shields.io/badge/-React.js-green)]() <br />
 This is an Amazon Clone created using React JS as Front end , Firebase for Deployment and the backend purpose
 
 
