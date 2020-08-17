@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![AmazonClone](https://user-images.githubusercontent.com/59787083/90358581-11f02380-e074-11ea-8a96-8b47878cfc9d.png)
+![AmazonClone](C:/Users/a/Pictures/AmazonClone.png)
 
 ## Available Scripts
 
